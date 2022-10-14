@@ -1,0 +1,137 @@
+.left-side{width:285px; 
+/*background:red;*/
+height: 70vh;
+padding: 10px}
+
+.right-side{width: 1155px;
+/*background:green;*/
+height: 100vh;
+padding: 10px}
+
+.container{
+    width:100%;
+    display: flex;
+    height: 80vh;
+    padding: 0 40px;
+}
+
+.heading{ /*background: blue;*/
+         height: 100px;
+         width: 800px;
+         padding-left: 140px;
+         display:flex}
+
+.heading_title{/*background: yellow;*/
+            height:35%;
+            width: 300px;
+            font-family:'Poppins';
+            font-size:20px;
+            /*padding-top:10%;*/
+            }
+
+.heading_subtitle{/*background: lime;*/
+    height:45%;
+    width: 300px;
+    font-family:'Poppins';
+    font-size:15px;
+    }
+
+.tire{/*background: grey;*/
+                height:100%;
+                width: 70px;
+                }
+
+.search_title_1{
+/*background: blue;*/
+    height:45%;
+    width: 50px;
+    margin-top:40%
+}
+
+
+
+.heading_account{/*background: lime;*/
+    height:100%;
+    width: 100px;
+    }
+
+
+.card{ /*background: lime;*/
+    height: 90px;
+    width: 930px;
+
+    }
+
+.empty1{/*background: white;*/
+    height: 10px;
+    width: 930px; }
+
+
+.empty2{/*background: white;*/
+        height: 10px;
+        width: 930px; }
+.empty3{/*background: white;*/
+            height: 20px;
+            width: 930px; }
+
+.charts{ /*background: lime;*/
+            height: 200px;
+            width: 930px;
+            padding:3
+            }
+
+.orderlist{/*background: lime;*/
+                height: 100px;
+                width: 930px;
+                }
+
+.empty11{/*background: rgb(168, 165, 177);*/
+                    height: 10px;
+                    width: 270px; }
+
+.logo{/*background: lime;*/
+    height: 40px;
+    width: 270px; 
+}
+
+
+.empty12{/*background: rgb(168, 165, 177);*/
+        height: 40px;
+        width: 270px; }
+
+.empty131{/*background: rgb(168, 165, 177);*/
+            height: 15px;
+            width: 270px; }
+
+.Overview{/*background: lime;*/
+    height: 200px;
+    width: 270px; }
+
+
+.Overview,.Product,.Orders,.Checkout,.Settings{/*background: lime;*/
+            height: 30px;
+            width: 270px;
+             }            
+
+.Help,.Contact,.Logout{/*background: yellow;*/
+                height: 30px;
+                width: 220px; }
+
+.footing{/*background: blue;*/
+    height: 100px;
+    width: 300px; }
+
+
+@media screen and (
+    min-width: 800px){container{
+        /*background: lime;*/
+        width:600px;
+        margin:40px;
+    }}
+	
+	
+	
+
+       
+
+
